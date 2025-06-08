@@ -80,7 +80,7 @@ quiz-platform/
 
 1. Access the platform through your web browser:
 ```
-http://your-domain/quiz-platform
+http://localhost/quiz-platform
 ```
 
 2. Register as either a tutor or student
